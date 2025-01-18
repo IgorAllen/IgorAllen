@@ -1,9 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ola!+Eu+me+chamo+Igor+Allen+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+My+name+is+Igor+Allen+👋)](https://git.io/typing-svg)
 
 ##
 
-- 🔭 Eu sou estudante de engenharia de software.
-
+- 🔭 I am a software engineering student.
 ##
   
 <div style="display: inline_block"><br>
